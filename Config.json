@@ -1,6 +1,6 @@
 {
   "version": "1.6",
-  "forceWipe": true,
+  "forceWipe": false,
   "maintenance": false,
   "mensajeGlobal": "",
   "reason": "Nuevo Contenido",
