@@ -1,13 +1,11 @@
 {
-  "version": "1.3",
-  "forceWipe": false,
-  "reason": "",
-  "compensation": {
-    "oro": 200,
-    "fragmentos": 1,
-    "mensaje": "Gracias por jugar la beta!"
-  },
+  "version": "1.4",
+  "forceWipe": true,
   "maintenance": false,
   "mensajeGlobal": "",
-  "minVersion": "1.3"
+  "reason": "",
+  "compensation": {
+    "oro": 80000,
+    "fragmentos": 30
+  }
 }
