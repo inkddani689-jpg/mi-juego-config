@@ -1,8 +1,10 @@
 {
   "version": "1.5",
   "forceWipe": true,
-  "reason": "Reset de Niveles - Temporada 2",
-  "wipeHeroes": true,
+  "maintenance": false,
+  "mensajeGlobal": "",
+  "reason": "Nuevo Contenido",
+  "wipeHeroes" : true,
   "compensation": {
     "oro": 80000,
     "fragmentos": 30
