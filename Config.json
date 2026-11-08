@@ -1,10 +1,9 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "forceWipe": true,
   "maintenance": false,
   "mensajeGlobal": "",
   "reason": "Nuevo Contenido",
-  "wipeHeroes" : true,
   "compensation": {
     "oro": 80000,
     "fragmentos": 30
