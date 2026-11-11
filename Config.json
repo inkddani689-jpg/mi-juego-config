@@ -1,11 +1,11 @@
 {
-  "version": "1.6",
-  "forceWipe": false,
+  "version": "1.8",
+  "forceWipe": true,
   "maintenance": false,
   "mensajeGlobal": "",
-  "reason": "Nuevos Enemigos, PVP por codigo y Sprites de sets!!",
+  "reason": "Reajuste de Exp, Drops, Skins, Skills, Fusion, Runas, Socks y mas! PERDON DARK ! ",
   "compensation": {
-    "oro": 60000,
-    "fragmentos": 20
+    "oro": 80000,
+    "fragmentos": 40
   }
 }
