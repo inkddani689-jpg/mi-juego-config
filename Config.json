@@ -1,11 +1,6 @@
 {
-  "version": "1.8",
+  "version": "1.9",
   "forceWipe": true,
-  "maintenance": false,
-  "mensajeGlobal": "",
-  "reason": "Reajuste de Exp, Drops, Skins, Skills, Fusion, Runas, Socks y mas! PERDON DARK ! ",
-  "compensation": {
-    "oro": 80000,
-    "fragmentos": 40
-  }
+  "reason": "Wipe forzado para Edge / Explorer",
+  "compensation": { "oro": 80000, "fragmentos": 2000 }
 }
